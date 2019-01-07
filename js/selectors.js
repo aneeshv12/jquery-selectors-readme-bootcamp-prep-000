@@ -4,5 +4,9 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-  return $('div ul li:last')[0]
+  return $('div ul li:last')[0];
+}
+
+function ninjaBabySelector(){
+  return 
 }
